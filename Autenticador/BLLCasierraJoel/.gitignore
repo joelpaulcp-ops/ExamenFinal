@@ -1,0 +1,14 @@
+# Archivos temporales de Visual Studio
+.vs/
+**/.vs/
+
+# Archivos generados
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
