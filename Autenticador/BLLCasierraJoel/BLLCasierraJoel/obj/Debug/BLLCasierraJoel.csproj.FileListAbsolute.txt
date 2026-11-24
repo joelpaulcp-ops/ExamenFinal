@@ -1,0 +1,12 @@
+C:\Program\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.csproj.AssemblyReference.cache
+C:\Program\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.csproj.CoreCompileInputs.cache
+C:\Program\Autenticador\BLLCasierraJoel\BLLCasierraJoel\bin\Debug\BLLCasierraJoel.dll
+C:\Program\Autenticador\BLLCasierraJoel\BLLCasierraJoel\bin\Debug\BLLCasierraJoel.pdb
+C:\Program\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.dll
+C:\Program\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.pdb
+C:\Users\LAB2_PC9\Desktop\Hackathon\Autenticador\BLLCasierraJoel\BLLCasierraJoel\bin\Debug\BLLCasierraJoel.dll
+C:\Users\LAB2_PC9\Desktop\Hackathon\Autenticador\BLLCasierraJoel\BLLCasierraJoel\bin\Debug\BLLCasierraJoel.pdb
+C:\Users\LAB2_PC9\Desktop\Hackathon\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.csproj.AssemblyReference.cache
+C:\Users\LAB2_PC9\Desktop\Hackathon\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.csproj.CoreCompileInputs.cache
+C:\Users\LAB2_PC9\Desktop\Hackathon\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.dll
+C:\Users\LAB2_PC9\Desktop\Hackathon\Autenticador\BLLCasierraJoel\BLLCasierraJoel\obj\Debug\BLLCasierraJoel.pdb

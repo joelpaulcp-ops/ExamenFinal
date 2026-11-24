@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BLLCasierraJoel/BLLCasierraJoel.csproj" Id="9bbaa4cc-3a73-46fc-aca6-9226335a1f66" />
+  <Project Path="Escritorio/Escritorio.csproj" Id="4b2406f6-3521-4925-bdee-a97c29e20384">
+    <BuildDependency Project="BLLCasierraJoel/BLLCasierraJoel.csproj" />
+  </Project>
+</Solution>
