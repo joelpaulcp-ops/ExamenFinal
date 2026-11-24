@@ -9,7 +9,7 @@ namespace BLLCasierraJoel
     public class ClsAutenticador
     {
         public string Usuario = "JoelCasierra";
-        public string Clave = "12345";
+        public string Clave = "123456";
         public bool Autenticacion (String usuario, String clave)
         {
          if (Usuario == usuario && Clave == clave)
